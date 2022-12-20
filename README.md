@@ -1,5 +1,7 @@
 # AngularBoxUiElements
 
+This app aims to demonstrate how to use Box UI Elements with Angular. In this approach I directly installed the box-ui-elements package.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Development server

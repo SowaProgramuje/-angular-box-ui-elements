@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-box-ui-elements';
+  boxFolderId = '0';
 }

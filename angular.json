@@ -30,9 +30,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "./node_modules/box-ui-elements/dist/explorer.css"
             ],
-            "scripts": []
+            "scripts": [
+              {
+                "input": "./node_modules/box-ui-elements/dist/explorer.js",
+                "inject": true,
+                "bundleName": "box-content-explorer-js"
+              }
+            ]
           },
           "configurations": {
             "production": {
